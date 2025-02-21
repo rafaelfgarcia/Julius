@@ -1,4 +1,4 @@
-# Quasar Moneyballs (quasar-moneyballs)
+# Julius
 
 A Quasar Project
 
