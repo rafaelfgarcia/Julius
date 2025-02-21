@@ -1,4 +1,9 @@
-// app global css in SCSS form
+// global
+.letter-spacing-none {
+    letter-spacing: 0;
+}
+
+// drawer nav
 .q-drawer {
     .q-item {
         opacity: 0.6;
@@ -8,7 +13,15 @@
     }
 }
 
+// number inputs
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
     margin-left: 10px;
+}
+
+// q-popup-edit-buttons
+.q-popup-edit__buttons {
+    .q-btn {
+        text-transform: none;
+    }
 }

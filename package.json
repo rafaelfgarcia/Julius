@@ -1,8 +1,8 @@
 {
-  "name": "quasar-moneyballs",
+  "name": "quasar-julius",
   "version": "0.0.1",
   "description": "A Quasar Project",
-  "productName": "Quasar Moneyballs",
+  "productName": "Julius",
   "author": "Rafael <rafael@sygmasistemas.com.br>",
   "type": "module",
   "private": true,

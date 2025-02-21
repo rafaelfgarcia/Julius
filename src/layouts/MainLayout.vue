@@ -14,7 +14,7 @@
         <q-toolbar-title>
           <div class="absolute-center">
             <q-icon name="savings" />
-            Moneyballs
+            Julius
           </div>
         </q-toolbar-title>
 
@@ -53,16 +53,16 @@
 
 <script setup>
 import { ref } from 'vue'
-import NavLink from 'src/components/Nav/NavLink.vue'
+import NavLink from 'src/components/Nav/NavLinkComponent.vue'
 
 const navLinks = [
   {
-    title: 'Entries',
+    title: 'Entradas',
     icon: 'savings',
     link: '/'
   },
   {
-    title: 'Settings',
+    title: 'Configurações',
     icon: 'settings',
     link: '/settings'
   }
